@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JabinSun
-- 👀 I’m interested in DevOps/SRE
-- 🌱 I’m currently learning Python/Go
+- 👋 Hi, I’m `@JabinSun`
+- 👀 I’m interested in `DevOps/SRE`
+- 🌱 I’m currently learning `Python/Go`
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jabinsun724@gmail.com
+- 📫 How to reach me `jabinsun724@gmail.com`
 
 <!---
 JabinSun/JabinSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
