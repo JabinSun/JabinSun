@@ -1,7 +1,7 @@
 - 👋 Hi, I’m `@JabinSun`
 - 👀 I’m interested in `DevOps/SRE`
 - 🌱 I’m currently learning `Python/Go`
-- 💞️ I’m looking to collaborate on `...`
+- 💞️ I’m looking to collaborate on `https://github.com/JabinSun/`
 - 📫 How to reach me `jabinsun724@gmail.com`
 
 <!---
